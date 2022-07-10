@@ -1,0 +1,4 @@
+char g()
+{
+    return 'h';
+}

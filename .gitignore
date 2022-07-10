@@ -1,0 +1,7 @@
+src/lang/GrammarTreeMaker/.idea
+workspace.code-workspace
+.vscode
+bin/
+out/
+src/utils/GrammarTreeMaker/.idea
+*.out
